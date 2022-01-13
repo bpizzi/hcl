@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/hashicorp/hcl/hcl/ast"
-	"github.com/hashicorp/hcl/hcl/token"
+	"github.com/bpizzi/hcl/hcl/ast"
+	"github.com/bpizzi/hcl/hcl/token"
 )
 
 func TestType(t *testing.T) {
